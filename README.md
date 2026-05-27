@@ -18,4 +18,4 @@ https://www.figma.com/design/eDUso3iZV9UOBRVzziiOQq/Restaurant-Menu-UI--Communit
 
 ## Preview
 https://www.figma.com/proto/eDUso3iZV9UOBRVzziiOQq/Restaurant-Menu-UI--Community-?node-id=0-1&t=W1YXFsZ1a0j8CF2a-1
-(Add screenshots here)
+
